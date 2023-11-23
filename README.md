@@ -21,7 +21,7 @@ Make sure you have Python installed on your machine.
 
    ```bash
    git clone https://github.com/swaralisurve/ATM-interface.git
-   cd atm-management-system
+   cd ATM interface
 Run the application:
 
 bash
